@@ -26,7 +26,7 @@ body {
     justify-content: space-evenly;
 }
 .load {
-    animation: loads .6s ease infinite;
+    animation: loads .4s ease infinite;
     width: 25px;
     height: 25px;
     background-color: #00ebeb;
